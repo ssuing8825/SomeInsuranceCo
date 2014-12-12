@@ -1,0 +1,8 @@
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\bin\Debug\SomeInsuranceCo.Internal.dll
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\bin\Debug\SomeInsuranceCo.Internal.pdb
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\bin\Debug\NServiceBus.Core.dll
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\bin\Debug\NServiceBus.Core.pdb
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\bin\Debug\NServiceBus.Core.xml
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\obj\Debug\SomeInsuranceCo.Internal.dll
+c:\users\steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\obj\Debug\SomeInsuranceCo.Internal.pdb
+C:\Users\Steven.suing\documents\visual studio 2013\Projects\SomeInsuranceCo\SomeInsuranceCo.Internal\obj\Debug\SomeInsuranceCo.Internal.csprojResolveAssemblyReference.cache
